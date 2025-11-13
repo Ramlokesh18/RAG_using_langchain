@@ -1,2 +1,3 @@
 # RAG_using_langchain
-This i a basic RAG implementation using the Langchain framework
+This is a basic RAG implementation using the Langchain framework
+with the both opensource and openAI models.
